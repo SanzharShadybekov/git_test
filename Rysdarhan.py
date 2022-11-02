@@ -1,0 +1,2 @@
+print('chtoto tam')
+
