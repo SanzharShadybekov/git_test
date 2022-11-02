@@ -1,1 +1,1 @@
-print('added medina')
+print('added medin')
